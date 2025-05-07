@@ -40,7 +40,7 @@ Dưới đây là các tài khoản thử nghiệm để sử dụng trong dự 
 | **Loại Tài Khoản**      | **Email**                         | **Mật Khẩu**           | **Ghi Chú**                                                                                              |
 |-------------------------|-----------------------------------|------------------------|---------------------------------------------------------------------------------------------------------|
 | **Admin**               | admin@gmail.com                  | y?gvRZZf?9b87#4       |                                                                                                         |
-| **Thủ Kho**             | warehouse@gmail.com              | RS$6qkUJ7i.@3JM       |                                                                                                         |
+| **Thủ Kho**             | warehouse@gmail.com              | RS$6qkU)7i.@3JM       |                                                                                                         |
 | **Nhân Viên Bán Hàng**  | sales@gmail.com                  | 12345678              |                                                                                                         |
 | **Thu Ngân**            | cashier@gmail.com                | 12345678              |                                                                                                         |
 | **Người Dùng**          | user@gmail.com                   | 12345678              |                                                                                                         |
